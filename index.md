@@ -1,9 +1,14 @@
-# Documentation for the Campbell Muscle Lab GitHub
+# Documentation for Campbell Muscle Lab GitHub Repositories
 
-For the lab itself, [Campbell lab website](http://www.campbellmusclelab.org)
+This page provides links to documentation for software projects supported by the [Campbell Muscle Lab](http://www.campbellmusclelab.org) at the University of Kentucky.
 
 ## Repositories
 
-+ [Python_MyoVision_docs](Python_MyoVision_docs)
-  
+### Modeling
++ [MATLAB_MyoSim](MATLAB_MyoSim)
+
+### Image processing
++ [Python_MyoVision](Python_MyoVision)
+
+### General
 + [MATLAB_Utilities](MATLAB_Utilities)
