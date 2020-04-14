@@ -13,3 +13,9 @@ This page provides links to documentation for software supported by the [Campbel
 
 ### Statistics
 + [Linear mixed models](howtos_linear_mixed_models)
+
+### GitHub
++ [GitHub how-tos](howtos_GitHub)
+
+### Python
++ [Python how-tos](howtos_Python)
