@@ -15,7 +15,10 @@ This page provides links to documentation for software supported by the [Campbel
 + [Linear mixed models](howtos_linear_mixed_models)
 
 ### GitHub
-+ [GitHub how-tos](howtos_GitHub)
++ [howtos_GitHub](howtos_GitHub)
 
 ### Python
-+ [Python how-tos](howtos_Python)
++ [howtos_Python](howtos_Python)
+
+### Making figures
++ [howtos_making_figures](howtos_making_figures)
