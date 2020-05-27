@@ -22,3 +22,6 @@ This page provides links to documentation for software supported by the [Campbel
 
 ### Making figures
 + [howtos_making_figures](howtos_making_figures)
+
+### JSON
++ [howtos_json](howtos_json)
