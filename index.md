@@ -1,4 +1,6 @@
-This page provides links to documentation for software supported by the [Campbell Muscle Lab](http://www.campbellmusclelab.org) at the [University of Kentucky](http://www.uky.edu).
+## Campbell Muscle Lab GitHub
+
+Software supported by the [Campbell Muscle Lab](http://www.campbellmusclelab.org) at the [University of Kentucky](http://www.uky.edu).
 
 ### Code
 
@@ -14,20 +16,24 @@ This page provides links to documentation for software supported by the [Campbel
 
 #### Muscle mechanics - data acquisition and analysis
 + [SLControl](https://github.com/Campbell-Muscle-Lab/SLControl)
+  + the code underlying the [data acquisition system](https://www.slcontrol.org) we've been using since 2000!
 + [SLControl utilities](https://github.com/Campbell-Muscle-Lab/SLControl_utilities)
 
 #### Image processing
 + [Python_MyoVision](Python_MyoVision)
+  + a Python-based version of [MyoVision](https://www.myovision.org)
 
 #### General
 + [MATLAB_Utilities](MATLAB_Utilities)
+  + resources we use in many of our projects
 
 #### Statistics
 + [MATLAB_SAS](https://github.com/Campbell-Muscle-Lab/MATLAB_SAS)
   + code for running [linear mixed models](howtows_linear_mixed_models) in SAS from MATLAB
 
 ### Howtos
+Tutorials, tips and tricks, and general guidance
 + [Linear mixed models](howtos_linear_mixed_models)
-+ [howtos_GitHub](howtos_GitHub)
-+ [howtos_Python](howtos_Python)
-+ [howtos_making_figures](howtos_making_figures)
++ [GitHub](howtos_GitHub)
++ [Python](howtos_Python)
++ [Making figures](howtos_making_figures)
