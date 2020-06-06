@@ -15,7 +15,7 @@ Software supported by the [Campbell Muscle Lab](http://www.campbellmusclelab.org
   + a ventricle driven by a single MyoSim half-sarcomere that pumps blood around a circulation
 
 #### Muscle mechanics - data acquisition and analysis
-+ [SLControl](https://github.com/Campbell-Muscle-Lab/SLControl)
++ [SLControl](http://github.com/Campbell-Muscle-Lab/SLControl)
   + the code underlying the [data acquisition system](http://www.slcontrol.org) we've been using since 2000!
 + [SLControl utilities](http://github.com/Campbell-Muscle-Lab/SLControl_utilities)
 
