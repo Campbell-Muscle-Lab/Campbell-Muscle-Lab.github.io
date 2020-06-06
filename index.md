@@ -21,7 +21,7 @@ Software supported by the [Campbell Muscle Lab](http://www.campbellmusclelab.org
 
 #### Image processing
 + [Python_MyoVision](Python_MyoVision)
-  + a Python-based version of [MyoVision](http://www.myovision.org)
+  + a Python-based version of [MyoVision](http://pubmed.ncbi.nlm.nih.gov/28982947/)
 
 #### General
 + [MATLAB_Utilities](MATLAB_Utilities)
