@@ -1,6 +1,6 @@
 ## Campbell Muscle Lab GitHub
 
-Software supported by the [Campbell Muscle Lab](http://www.campbellmusclelab.org) at the [University of Kentucky](http://www.uky.edu).
+Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmusclelab.org) at the [University of Kentucky](http://www.uky.edu).
 
 ### Code
 
@@ -24,7 +24,7 @@ Software supported by the [Campbell Muscle Lab](http://www.campbellmusclelab.org
   + a Python-based version of [MyoVision](http://pubmed.ncbi.nlm.nih.gov/28982947/)
 
 #### General
-+ [MATLAB_Utilities](MATLAB_Utilities)
++ [MATLAB_Utilities](http://github.com/Campbell-Muscle-Lab/MATLAB_utilities)
   + resources we use in many of our projects
 
 #### Statistics
