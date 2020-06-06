@@ -16,19 +16,19 @@ Software supported by the [Campbell Muscle Lab](http://www.campbellmusclelab.org
 
 #### Muscle mechanics - data acquisition and analysis
 + [SLControl](https://github.com/Campbell-Muscle-Lab/SLControl)
-  + the code underlying the [data acquisition system](https://www.slcontrol.org) we've been using since 2000!
-+ [SLControl utilities](https://github.com/Campbell-Muscle-Lab/SLControl_utilities)
+  + the code underlying the [data acquisition system](http://www.slcontrol.org) we've been using since 2000!
++ [SLControl utilities](http://github.com/Campbell-Muscle-Lab/SLControl_utilities)
 
 #### Image processing
 + [Python_MyoVision](Python_MyoVision)
-  + a Python-based version of [MyoVision](https://www.myovision.org)
+  + a Python-based version of [MyoVision](http://www.myovision.org)
 
 #### General
 + [MATLAB_Utilities](MATLAB_Utilities)
   + resources we use in many of our projects
 
 #### Statistics
-+ [MATLAB_SAS](https://github.com/Campbell-Muscle-Lab/MATLAB_SAS)
++ [MATLAB_SAS](http://github.com/Campbell-Muscle-Lab/MATLAB_SAS)
   + code for running [linear mixed models](howtows_linear_mixed_models) in SAS from MATLAB
 
 ### Howtos
