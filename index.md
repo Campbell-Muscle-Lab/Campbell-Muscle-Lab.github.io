@@ -29,7 +29,7 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
 
 #### Statistics
 + [MATLAB_SAS](http://github.com/Campbell-Muscle-Lab/MATLAB_SAS)
-  + code for running [linear mixed models](howtows_linear_mixed_models) in SAS from MATLAB
+  + code for running [linear mixed models](howtos_linear_mixed_models) in SAS from MATLAB
 
 ### Howtos
 Tutorials, tips and tricks, and general guidance
