@@ -33,7 +33,9 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
 
 ### Howtos
 Tutorials, tips and tricks, and general guidance
-+ [Linear mixed models](howtos_linear_mixed_models)
 + [GitHub](howtos_GitHub)
-+ [Python](howtos_Python)
++ [JSON](howtos_json)
++ [Linear mixed models](howtos_linear_mixed_models)
 + [Making figures](howtos_making_figures)
++ [Python](howtos_Python)
+
