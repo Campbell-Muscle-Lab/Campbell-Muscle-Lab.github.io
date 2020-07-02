@@ -37,5 +37,6 @@ Tutorials, tips and tricks, and general guidance
 + [JSON](howtos_json)
 + [Linear mixed models](howtos_linear_mixed_models)
 + [Making figures](howtos_making_figures)
++ [MATLAB](howtos_MATLAB)
 + [Python](howtos_Python)
 
