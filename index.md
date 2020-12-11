@@ -33,6 +33,10 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
 + [MATLAB_SAS](http://github.com/Campbell-Muscle-Lab/MATLAB_SAS)
   + code for running [linear mixed models](howtos_linear_mixed_models) in SAS from MATLAB
 
+#### Teaching
++ [PGY630_QM](teaching_PGY630_QM)
+  + website for PGY630: Quantitative Methods in Biomedical Sciences
+
 ### Howtos
 Tutorials, tips and tricks, and general guidance
 + [GitHub](howtos_GitHub)
