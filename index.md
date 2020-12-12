@@ -28,6 +28,8 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
 #### General
 + [MATLAB_Utilities](http://github.com/Campbell-Muscle-Lab/MATLAB_utilities)
   + resources we use in many of our projects
++ [Python_Utilities](http://github.com/Campbell-Muscle-Lab/PyCMLutilities)
+  + Not as big but better documented than the MATLAB version above
 
 #### Statistics
 + [MATLAB_SAS](http://github.com/Campbell-Muscle-Lab/MATLAB_SAS)
