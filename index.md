@@ -25,10 +25,10 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
 + [Python_MyoVision](Python_MyoVision)
   + a Python-based version of [MyoVision](http://pubmed.ncbi.nlm.nih.gov/28982947/)
 
-#### General
+#### General utilities - curve-fitting, plotting, etc 
 + [MATLAB_Utilities](http://github.com/Campbell-Muscle-Lab/MATLAB_utilities)
   + resources we use in many of our projects
-+ [Python_Utilities](http://github.com/Campbell-Muscle-Lab/PyCMLutilities)
++ [Python_Utilities](PyCMLutilities)
   + Not as big but better documented than the MATLAB version above
 
 #### Statistics
