@@ -25,6 +25,12 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
 + [Python_MyoVision](Python_MyoVision)
   + a Python-based version of [MyoVision](http://pubmed.ncbi.nlm.nih.gov/28982947/)
 
+#### GelBox
++ [GelBox](http://github.com/Campbell-Muscle-Lab/GelBox)
+  + a simple GUI written in MATLAB to help analyze gels and immunoblots
+  + simple installation via a [MATLAB package](https://github.com/Campbell-Muscle-Lab/GelBox/blob/6119e60dde25022f736e1cff21b29bf00cd7bd33/GelBox.mlappinstall)
+
+
 #### General utilities - curve-fitting, plotting, etc 
 + [MATLAB_Utilities](http://github.com/Campbell-Muscle-Lab/MATLAB_utilities)
   + resources we use in many of our projects
