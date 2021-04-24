@@ -28,7 +28,7 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
 #### GelBox
 + [GelBox](http://github.com/Campbell-Muscle-Lab/GelBox)
   + a simple GUI written in MATLAB to help analyze gels and immunoblots
-  + simple installation via a [MATLAB package](https://github.com/Campbell-Muscle-Lab/GelBox/blob/6119e60dde25022f736e1cff21b29bf00cd7bd33/GelBox.mlappinstall)
+  + simple installation via a [MATLAB package](https://github.com/Campbell-Muscle-Lab/GelBox/blob/4d211d6f9ac0ab8fb083cfa6c881269b73834277/GelBox.mlappinstall)
 
 
 #### General utilities - curve-fitting, plotting, etc 
