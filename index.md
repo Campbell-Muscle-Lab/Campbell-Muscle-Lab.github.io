@@ -20,6 +20,9 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
 + [SLControl utilities](http://github.com/Campbell-Muscle-Lab/SLControl_utilities)
 + [SLControl analysis](SLControl_analysis)
   + code written in MATLAB to automate analysis of large sets of SLControl files
++ [SLControl MAT analysis](SLControl_MAT_anal)
+  + new, simpler? code written in MATLAB to automate analysis of large sets of SLControl files
+
 
 #### Image processing
 + [Python_MyoVision](Python_MyoVision)
