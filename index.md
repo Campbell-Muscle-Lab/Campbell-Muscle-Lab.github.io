@@ -47,7 +47,9 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
 #### Teaching
 + [PGY630_QM](teaching_PGY630_QM)
   + website for PGY630: Quantitative Methods in Biomedical Sciences
-
+### Protocols
++ [Protocols](Protocols)
+  + website for Campbell Muscle Lab protocols
 ### Howtos
 Tutorials, tips and tricks, and general guidance
 + [GitHub](howtos_GitHub)
