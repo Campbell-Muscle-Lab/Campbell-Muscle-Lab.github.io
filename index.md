@@ -28,6 +28,11 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
 + [Python_MyoVision](Python_MyoVision)
   + a Python-based version of [MyoVision](http://pubmed.ncbi.nlm.nih.gov/28982947/)
 
+#### GelBandFitter
++ [GelBandFitter](http://github.com/Campbell-Muscle-Lab/GelBandFitter)
+  + a computer program that uses non-linear regression techniques to fit mathematical functions to densitometry profiles of protein gels.
+  + Developed by Mihail Mitov, Marion Greaser (UW-Madison) and Ken Campbell
+
 #### GelBox
 + [GelBox](http://github.com/Campbell-Muscle-Lab/GelBox)
   + a simple GUI written in MATLAB to help analyze gels and immunoblots
