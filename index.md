@@ -34,7 +34,7 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
   + developed by Mihail Mitov, Marion Greaser (UW-Madison) and Ken Campbell
 
 #### GelBox
-+ [GelBox](http://github.com/Campbell-Muscle-Lab/GelBox)
++ [GelBox](https://campbell-muscle-lab.github.io/GelBox/)
   + a simple GUI written in MATLAB to help analyze gels and immunoblots
   + simple installation via a [MATLAB package](https://github.com/Campbell-Muscle-Lab/GelBox/blob/4d211d6f9ac0ab8fb083cfa6c881269b73834277/GelBox.mlappinstall)
 
