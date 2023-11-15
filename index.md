@@ -22,7 +22,8 @@ Open-source systems developed by the [Campbell Muscle Lab](http://www.campbellmu
   + code written in MATLAB to automate analysis of large sets of SLControl files
 + [SLControl MAT analysis](SLControl_MAT_anal)
   + new, simpler? code written in MATLAB to automate analysis of large sets of SLControl files
-
++ [SLMeasure](SLMeasure)
+  + A MATLAB app to help measure sarcomere length using brightfield images or camera feeds of multicellular preparations.
 
 #### Image processing
 + [Python_MyoVision](Python_MyoVision)
